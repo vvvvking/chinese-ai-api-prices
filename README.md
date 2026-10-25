@@ -33,7 +33,7 @@ the feed is machine-generated, so discrepancies are usually a stale upstream rat
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-10-23 19:00 UTC  
+**Generated:** 2026-10-24 19:00 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
