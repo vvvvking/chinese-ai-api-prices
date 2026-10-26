@@ -31,9 +31,9 @@ the feed is machine-generated, so discrepancies are usually a stale upstream rat
 
 <!-- PRICES:START -->
 
-_Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json?utm_source=github_readme_prices&utm_medium=readme> — do not edit by hand._
+_Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-10-24 19:00 UTC  
+**Generated:** 2026-10-25 19:00 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
@@ -42,173 +42,173 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | free | Free |
-| [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | free | Free |
+| [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html) | Zhipu AI | free | Free |
+| [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html) | Zhipu AI | free | Free |
 
 ### Chat / LLM — flat (36 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Hunyuan MT2 Lite](https://aiapi-pro.com/models/hy-mt2-lite.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.0430 | flat |
-| [Hunyuan MT2 Plus](https://aiapi-pro.com/models/hy-mt2-plus.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.0720 | flat |
-| [Doubao-Seed-2.0-Lite](https://aiapi-pro.com/models/doubao-seed-2.0-lite.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.0750 | flat |
-| [GLM-5.3-Flash](https://aiapi-pro.com/models/glm-5.3-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | $0.0800 | flat |
-| [Mimo v2.6 Flash API](https://aiapi-pro.com/models/mimo-v2.6-flash.html?utm_source=github_readme_prices&utm_medium=readme) | NovAI | $0.1000 | flat |
-| [GLM-5.3-FlashX API](https://aiapi-pro.com/models/glm-5.3-flashx.html?utm_source=github_readme_prices&utm_medium=readme) | NovAI | $0.1200 | flat |
-| [Hunyuan Hy3 Preview](https://aiapi-pro.com/models/hy3-preview.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent Hunyuan | $0.1300 | flat |
-| [Qwen3 Coder Flash](https://aiapi-pro.com/models/qwen3-coder-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.1500 | flat |
-| [Doubao Seed 2.1 Turbo](https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance (Volcengine) | $0.1500 | flat |
-| [Hunyuan Hy3](https://aiapi-pro.com/models/hy3.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent Hunyuan | $0.1800 | flat |
-| [DeepSeek-V4-Flash](https://aiapi-pro.com/models/deepseek-v4-flash.html?utm_source=github_readme_prices&utm_medium=readme) | DeepSeek | $0.2100 | flat |
-| [Qwen MT Plus](https://aiapi-pro.com/models/qwen-mt-plus.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.2500 | flat |
+| [Hunyuan MT2 Lite](https://aiapi-pro.com/models/hy-mt2-lite.html) | Tencent | $0.0430 | flat |
+| [Hunyuan MT2 Plus](https://aiapi-pro.com/models/hy-mt2-plus.html) | Tencent | $0.0720 | flat |
+| [Doubao-Seed-2.0-Lite](https://aiapi-pro.com/models/doubao-seed-2.0-lite.html) | ByteDance | $0.0750 | flat |
+| [GLM-5.3-Flash](https://aiapi-pro.com/models/glm-5.3-flash.html) | Zhipu AI | $0.0800 | flat |
+| [Mimo v2.6 Flash API](https://aiapi-pro.com/models/mimo-v2.6-flash.html) | NovAI | $0.1000 | flat |
+| [GLM-5.3-FlashX API](https://aiapi-pro.com/models/glm-5.3-flashx.html) | NovAI | $0.1200 | flat |
+| [Hunyuan Hy3 Preview](https://aiapi-pro.com/models/hy3-preview.html) | Tencent Hunyuan | $0.1300 | flat |
+| [Qwen3 Coder Flash](https://aiapi-pro.com/models/qwen3-coder-flash.html) | Alibaba Cloud | $0.1500 | flat |
+| [Doubao Seed 2.1 Turbo](https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html) | ByteDance (Volcengine) | $0.1500 | flat |
+| [Hunyuan Hy3](https://aiapi-pro.com/models/hy3.html) | Tencent Hunyuan | $0.1800 | flat |
+| [DeepSeek-V4-Flash](https://aiapi-pro.com/models/deepseek-v4-flash.html) | DeepSeek | $0.2100 | flat |
+| [Qwen MT Plus](https://aiapi-pro.com/models/qwen-mt-plus.html) | Alibaba Cloud | $0.2500 | flat |
 | … | | | _+24 more in the JSON feed_ |
 
 ### Chat / LLM — per 1M tokens (4 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | $0.1000 | per 1M tokens |
-| [MiniMax Text-01 API](https://aiapi-pro.com/models/minimax-text-01.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $0.2000 | per 1M tokens |
-| [Qwen-Plus API](https://aiapi-pro.com/models/qwen-plus.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.2600 | per 1M tokens |
-| [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | $1.080 | per 1M tokens |
+| [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html) | Zhipu AI | $0.1000 | per 1M tokens |
+| [MiniMax Text-01 API](https://aiapi-pro.com/models/minimax-text-01.html) | MiniMax | $0.2000 | per 1M tokens |
+| [Qwen-Plus API](https://aiapi-pro.com/models/qwen-plus.html) | Alibaba Cloud | $0.2600 | per 1M tokens |
+| [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html) | Zhipu AI | $1.080 | per 1M tokens |
 
 ### Chat / LLM — per generation (6 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $0.2800 | per generation |
-| [Doubao-Seed-2.0-Pro](https://aiapi-pro.com/models/doubao-seed-2.0-pro.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.4000 | per generation |
-| [Doubao-Seed-2.0-Code](https://aiapi-pro.com/models/doubao-seed-2.0-code.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.4500 | per generation |
-| [GLM-5](https://aiapi-pro.com/models/glm-5.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | $0.6700 | per generation |
-| [Hunyuan Hy4 Preview](https://aiapi-pro.com/models/hy4-preview.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.8340 | per generation |
-| [Kimi-K2.8-Preview](https://aiapi-pro.com/models/kimi-k2.8-preview.html?utm_source=github_readme_prices&utm_medium=readme) | Moonshot | $0.9300 | per generation |
+| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html) | MiniMax | $0.2800 | per generation |
+| [Doubao-Seed-2.0-Pro](https://aiapi-pro.com/models/doubao-seed-2.0-pro.html) | ByteDance | $0.4000 | per generation |
+| [Doubao-Seed-2.0-Code](https://aiapi-pro.com/models/doubao-seed-2.0-code.html) | ByteDance | $0.4500 | per generation |
+| [GLM-5](https://aiapi-pro.com/models/glm-5.html) | Zhipu AI | $0.6700 | per generation |
+| [Hunyuan Hy4 Preview](https://aiapi-pro.com/models/hy4-preview.html) | Tencent | $0.8340 | per generation |
+| [Kimi-K2.8-Preview](https://aiapi-pro.com/models/kimi-k2.8-preview.html) | Moonshot | $0.9300 | per generation |
 
 ### Image — Free (2 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [GLM-4.1V-Thinking-Flash](https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | free | Free |
-| [CogView3-Flash](https://aiapi-pro.com/models/cogview-3-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | free | Free |
+| [GLM-4.1V-Thinking-Flash](https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html) | Zhipu AI | free | Free |
+| [CogView3-Flash](https://aiapi-pro.com/models/cogview-3-flash.html) | Zhipu AI | free | Free |
 
 ### Image — per generation (11 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Wan 2.2 T2I Flash](https://aiapi-pro.com/models/wan2.2-t2i-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.0215 | per generation |
-| [WAND Vega Image Lite](https://aiapi-pro.com/models/wand-vega-image-lite.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (WAND Vega) | $0.0250 | per generation |
-| [Seedream 5.0](https://aiapi-pro.com/models/doubao-seedream-5.0.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.0270 | per generation |
-| [Vidu Image Q2](https://aiapi-pro.com/models/vidu-image-q2.html?utm_source=github_readme_prices&utm_medium=readme) | Vidu (Shengshu) | $0.0290 | per generation |
-| [Wan 2.5 T2I Preview](https://aiapi-pro.com/models/wan2.5-t2i-preview.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.0308 | per generation |
-| [Hunyuan Image 3.0](https://aiapi-pro.com/models/hy-image-v3.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Hunyuan) | $0.0310 | per generation |
-| [Seedream v5.0 Lite (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-lite.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance (Seedream) | $0.0340 | per generation |
-| [Seedream 5.0 Pro](https://aiapi-pro.com/models/doubao-seedream-5.0-pro.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.0340 | per generation |
-| [Seedream v5.0 Pro (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-pro.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance (Seedream) | $0.0460 | per generation |
-| [WAND Vega Image Flash](https://aiapi-pro.com/models/wand-vega-image-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (WAND Vega) | $0.0690 | per generation |
-| [WAND Vega Image Pro](https://aiapi-pro.com/models/wand-vega-image-pro.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (WAND Vega) | $0.1460 | per generation |
+| [Wan 2.2 T2I Flash](https://aiapi-pro.com/models/wan2.2-t2i-flash.html) | Alibaba Cloud | $0.0215 | per generation |
+| [WAND Vega Image Lite](https://aiapi-pro.com/models/wand-vega-image-lite.html) | Tencent (WAND Vega) | $0.0250 | per generation |
+| [Seedream 5.0](https://aiapi-pro.com/models/doubao-seedream-5.0.html) | ByteDance | $0.0270 | per generation |
+| [Vidu Image Q2](https://aiapi-pro.com/models/vidu-image-q2.html) | Vidu (Shengshu) | $0.0290 | per generation |
+| [Wan 2.5 T2I Preview](https://aiapi-pro.com/models/wan2.5-t2i-preview.html) | Alibaba Cloud | $0.0308 | per generation |
+| [Hunyuan Image 3.0](https://aiapi-pro.com/models/hy-image-v3.html) | Tencent (Hunyuan) | $0.0310 | per generation |
+| [Seedream v5.0 Lite (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-lite.html) | ByteDance (Seedream) | $0.0340 | per generation |
+| [Seedream 5.0 Pro](https://aiapi-pro.com/models/doubao-seedream-5.0-pro.html) | ByteDance | $0.0340 | per generation |
+| [Seedream v5.0 Pro (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-pro.html) | ByteDance (Seedream) | $0.0460 | per generation |
+| [WAND Vega Image Flash](https://aiapi-pro.com/models/wand-vega-image-flash.html) | Tencent (WAND Vega) | $0.0690 | per generation |
+| [WAND Vega Image Pro](https://aiapi-pro.com/models/wand-vega-image-pro.html) | Tencent (WAND Vega) | $0.1460 | per generation |
 
 ### Image — per image (4 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Qwen3 VL Plus](https://aiapi-pro.com/models/qwen3-vl-plus.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.2100 | per image |
-| [DeepSeek V4 Flash Vision](https://aiapi-pro.com/models/deepseek-v4-flash-vision.html?utm_source=github_readme_prices&utm_medium=readme) | DeepSeek | $0.3080 | per image |
-| [Qwen VL OCR](https://aiapi-pro.com/models/qwen-vl-ocr.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.7000 | per image |
-| [Hunyuan Vision 2.0 Instruct](https://aiapi-pro.com/models/hy-vision-2.0-instruct.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $1.154 | per image |
+| [Qwen3 VL Plus](https://aiapi-pro.com/models/qwen3-vl-plus.html) | Alibaba Cloud | $0.2100 | per image |
+| [DeepSeek V4 Flash Vision](https://aiapi-pro.com/models/deepseek-v4-flash-vision.html) | DeepSeek | $0.3080 | per image |
+| [Qwen VL OCR](https://aiapi-pro.com/models/qwen-vl-ocr.html) | Alibaba Cloud | $0.7000 | per image |
+| [Hunyuan Vision 2.0 Instruct](https://aiapi-pro.com/models/hy-vision-2.0-instruct.html) | Tencent | $1.154 | per image |
 
 ### Video — Free (1 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [CogVideoX-Flash](https://aiapi-pro.com/models/cogvideox-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Zhipu AI | free | Free |
+| [CogVideoX-Flash](https://aiapi-pro.com/models/cogvideox-flash.html) | Zhipu AI | free | Free |
 
 ### Video — flat (1 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Seedance 2.0 Fast](https://aiapi-pro.com/models/doubao-seedance-2.0-fast.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.0540 | flat |
+| [Seedance 2.0 Fast](https://aiapi-pro.com/models/doubao-seedance-2.0-fast.html) | ByteDance | $0.0540 | flat |
 
 ### Video — per generation (6 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Seedance 2.0](https://aiapi-pro.com/models/doubao-seedance-2.0.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.0670 | per generation |
-| [Seedance 2.5](https://aiapi-pro.com/models/doubao-seedance-2.5.html?utm_source=github_readme_prices&utm_medium=readme) | ByteDance | $0.1400 | per generation |
-| [MiniMax Hailuo 2.3 Fast](https://aiapi-pro.com/models/minimax-video-v2.3-fast.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
-| [MiniMax Hailuo 2.3](https://aiapi-pro.com/models/minimax-video-v2.3.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
-| [MiniMax Hailuo H3 Max](https://aiapi-pro.com/models/minimax-video-h3-max.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
-| [MiniMax Hailuo H3](https://aiapi-pro.com/models/minimax-video-h3.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
+| [Seedance 2.0](https://aiapi-pro.com/models/doubao-seedance-2.0.html) | ByteDance | $0.0670 | per generation |
+| [Seedance 2.5](https://aiapi-pro.com/models/doubao-seedance-2.5.html) | ByteDance | $0.1400 | per generation |
+| [MiniMax Hailuo 2.3 Fast](https://aiapi-pro.com/models/minimax-video-v2.3-fast.html) | MiniMax | $1.540 | per generation |
+| [MiniMax Hailuo 2.3](https://aiapi-pro.com/models/minimax-video-v2.3.html) | MiniMax | $1.540 | per generation |
+| [MiniMax Hailuo H3 Max](https://aiapi-pro.com/models/minimax-video-h3-max.html) | MiniMax | $1.540 | per generation |
+| [MiniMax Hailuo H3](https://aiapi-pro.com/models/minimax-video-h3.html) | MiniMax | $1.540 | per generation |
 
 ### Video — per image (3 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Qwen3 Omni Flash](https://aiapi-pro.com/models/qwen3-omni-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.1500 | per image |
-| [Hunyuan Turbos Vision Video](https://aiapi-pro.com/models/hunyuan-turbos-vision-video.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.4620 | per image |
-| [Hunyuan Video 1.5](https://aiapi-pro.com/models/hy-video-v1.5.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $1.540 | per image |
+| [Qwen3 Omni Flash](https://aiapi-pro.com/models/qwen3-omni-flash.html) | Alibaba Cloud | $0.1500 | per image |
+| [Hunyuan Turbos Vision Video](https://aiapi-pro.com/models/hunyuan-turbos-vision-video.html) | Tencent | $0.4620 | per image |
+| [Hunyuan Video 1.5](https://aiapi-pro.com/models/hy-video-v1.5.html) | Tencent | $1.540 | per image |
 
 ### Video — per 1M tokens (11 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Kling O1 Video API](https://aiapi-pro.com/models/kling-video-o1.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
-| [PixVerse V6.0 Video API](https://aiapi-pro.com/models/pixverse-video-v6.0.html?utm_source=github_readme_prices&utm_medium=readme) | PixVerse | $1.540 | per 1M tokens |
-| [Kling V3 Video API](https://aiapi-pro.com/models/kling-video-v3.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
-| [Kling V2.5 Turbo Video API](https://aiapi-pro.com/models/kling-video-v2.5-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
-| [PixVerse V5.6 Video API](https://aiapi-pro.com/models/pixverse-video-v5.6.html?utm_source=github_readme_prices&utm_medium=readme) | PixVerse | $1.540 | per 1M tokens |
-| [PixVerse C1 Video API](https://aiapi-pro.com/models/pixverse-video-c1.html?utm_source=github_readme_prices&utm_medium=readme) | PixVerse | $1.540 | per 1M tokens |
-| [Vidu Q3 Pro Video API](https://aiapi-pro.com/models/vidu-video-q3-pro.html?utm_source=github_readme_prices&utm_medium=readme) | Vidu Shengshu | $1.540 | per 1M tokens |
-| [Vidu Q3 Video API](https://aiapi-pro.com/models/vidu-video-q3.html?utm_source=github_readme_prices&utm_medium=readme) | Vidu Shengshu | $1.540 | per 1M tokens |
-| [Kling V3 Turbo Video API](https://aiapi-pro.com/models/kling-video-v3-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
-| [Kling V3 Omni Video API](https://aiapi-pro.com/models/kling-video-v3-omni.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
-| [Kling V2.6 Video API](https://aiapi-pro.com/models/kling-video-v2.6.html?utm_source=github_readme_prices&utm_medium=readme) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [Kling O1 Video API](https://aiapi-pro.com/models/kling-video-o1.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [PixVerse V6.0 Video API](https://aiapi-pro.com/models/pixverse-video-v6.0.html) | PixVerse | $1.540 | per 1M tokens |
+| [Kling V3 Video API](https://aiapi-pro.com/models/kling-video-v3.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [Kling V2.5 Turbo Video API](https://aiapi-pro.com/models/kling-video-v2.5-turbo.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [PixVerse V5.6 Video API](https://aiapi-pro.com/models/pixverse-video-v5.6.html) | PixVerse | $1.540 | per 1M tokens |
+| [PixVerse C1 Video API](https://aiapi-pro.com/models/pixverse-video-c1.html) | PixVerse | $1.540 | per 1M tokens |
+| [Vidu Q3 Pro Video API](https://aiapi-pro.com/models/vidu-video-q3-pro.html) | Vidu Shengshu | $1.540 | per 1M tokens |
+| [Vidu Q3 Video API](https://aiapi-pro.com/models/vidu-video-q3.html) | Vidu Shengshu | $1.540 | per 1M tokens |
+| [Kling V3 Turbo Video API](https://aiapi-pro.com/models/kling-video-v3-turbo.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [Kling V3 Omni Video API](https://aiapi-pro.com/models/kling-video-v3-omni.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+| [Kling V2.6 Video API](https://aiapi-pro.com/models/kling-video-v2.6.html) | Kuaishou Kling | $1.540 | per 1M tokens |
 
 ### Embedding — per image (2 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Kinfra VL Embedding 2B](https://aiapi-pro.com/models/kinfra-vl-embedding-2b.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Kinfra) | $0.0769 | per image |
-| [Kinfra VL Embedding 8B](https://aiapi-pro.com/models/kinfra-vl-embedding-8b.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Kinfra) | $0.0923 | per image |
+| [Kinfra VL Embedding 2B](https://aiapi-pro.com/models/kinfra-vl-embedding-2b.html) | Tencent (Kinfra) | $0.0769 | per image |
+| [Kinfra VL Embedding 8B](https://aiapi-pro.com/models/kinfra-vl-embedding-8b.html) | Tencent (Kinfra) | $0.0923 | per image |
 
 ### Embedding — flat (4 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Kinfra Text Embedding 0.6B](https://aiapi-pro.com/models/kinfra-text-embedding-0.6b.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Kinfra) | $0.0769 | flat |
-| [Text Embedding V4](https://aiapi-pro.com/models/text-embedding-v4.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.0800 | flat |
-| [Kinfra Text Embedding 4B](https://aiapi-pro.com/models/kinfra-text-embedding-4b.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Kinfra) | $0.0923 | flat |
-| [Qwen3.7 Text Embedding](https://aiapi-pro.com/models/qwen3.7-text-embedding.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.1100 | flat |
+| [Kinfra Text Embedding 0.6B](https://aiapi-pro.com/models/kinfra-text-embedding-0.6b.html) | Tencent (Kinfra) | $0.0769 | flat |
+| [Text Embedding V4](https://aiapi-pro.com/models/text-embedding-v4.html) | Alibaba Cloud | $0.0800 | flat |
+| [Kinfra Text Embedding 4B](https://aiapi-pro.com/models/kinfra-text-embedding-4b.html) | Tencent (Kinfra) | $0.0923 | flat |
+| [Qwen3.7 Text Embedding](https://aiapi-pro.com/models/qwen3.7-text-embedding.html) | Alibaba Cloud | $0.1100 | flat |
 
 ### 3D — per generation (7 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Hunyuan 3D Motion](https://aiapi-pro.com/models/hy-3d-motion.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.1850 | per generation |
-| [Hunyuan 3D Express](https://aiapi-pro.com/models/hy-3d-express.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.2770 | per generation |
-| [Tripo 3D P1](https://aiapi-pro.com/models/tripo-3d-p1.html?utm_source=github_readme_prices&utm_medium=readme) | Tripo | $0.3230 | per generation |
-| [Tripo 3D 3.1](https://aiapi-pro.com/models/tripo-3d-3.1.html?utm_source=github_readme_prices&utm_medium=readme) | Tripo | $0.3230 | per generation |
-| [Hunyuan 3D 3.1](https://aiapi-pro.com/models/hy-3d-3.1.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.3690 | per generation |
-| [Hunyuan 3D 3.0](https://aiapi-pro.com/models/hy-3d-3.0.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.3690 | per generation |
-| [Hunyuan 3D PolyGen (Image)](https://aiapi-pro.com/models/hy-3d-polygen-image.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent | $0.5540 | per generation |
+| [Hunyuan 3D Motion](https://aiapi-pro.com/models/hy-3d-motion.html) | Tencent | $0.1850 | per generation |
+| [Hunyuan 3D Express](https://aiapi-pro.com/models/hy-3d-express.html) | Tencent | $0.2770 | per generation |
+| [Tripo 3D P1](https://aiapi-pro.com/models/tripo-3d-p1.html) | Tripo | $0.3230 | per generation |
+| [Tripo 3D 3.1](https://aiapi-pro.com/models/tripo-3d-3.1.html) | Tripo | $0.3230 | per generation |
+| [Hunyuan 3D 3.1](https://aiapi-pro.com/models/hy-3d-3.1.html) | Tencent | $0.3690 | per generation |
+| [Hunyuan 3D 3.0](https://aiapi-pro.com/models/hy-3d-3.0.html) | Tencent | $0.3690 | per generation |
+| [Hunyuan 3D PolyGen (Image)](https://aiapi-pro.com/models/hy-3d-polygen-image.html) | Tencent | $0.5540 | per generation |
 
 ### Audio — flat (8 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [Qwen3 TTS Flash](https://aiapi-pro.com/models/qwen3-tts-flash.html?utm_source=github_readme_prices&utm_medium=readme) | Alibaba Cloud | $0.0145 | flat |
-| [MiniMax Speech 2.6 HD](https://aiapi-pro.com/models/minimax-speech-2.6-hd.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | flat |
-| [Hunyuan ASR 3.0](https://aiapi-pro.com/models/hy-asr-3.0-preview.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (Hunyuan) | $1.540 | flat |
-| [MiniMax Speech 02 HD](https://aiapi-pro.com/models/minimax-speech-02-hd.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | flat |
-| [MiniMax Speech 2.6 Turbo](https://aiapi-pro.com/models/minimax-speech-2.6-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | flat |
-| [MiniMax Speech 2.8 HD](https://aiapi-pro.com/models/minimax-speech-2.8-hd.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | flat |
-| [WAND ASR v1](https://aiapi-pro.com/models/wand-asr-v1.html?utm_source=github_readme_prices&utm_medium=readme) | Tencent (WAND) | $1.540 | flat |
-| [MiniMax Speech 2.8 Turbo](https://aiapi-pro.com/models/minimax-speech-2.8-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | flat |
+| [Qwen3 TTS Flash](https://aiapi-pro.com/models/qwen3-tts-flash.html) | Alibaba Cloud | $0.0145 | flat |
+| [MiniMax Speech 2.6 HD](https://aiapi-pro.com/models/minimax-speech-2.6-hd.html) | MiniMax | $1.540 | flat |
+| [Hunyuan ASR 3.0](https://aiapi-pro.com/models/hy-asr-3.0-preview.html) | Tencent (Hunyuan) | $1.540 | flat |
+| [MiniMax Speech 02 HD](https://aiapi-pro.com/models/minimax-speech-02-hd.html) | MiniMax | $1.540 | flat |
+| [MiniMax Speech 2.6 Turbo](https://aiapi-pro.com/models/minimax-speech-2.6-turbo.html) | MiniMax | $1.540 | flat |
+| [MiniMax Speech 2.8 HD](https://aiapi-pro.com/models/minimax-speech-2.8-hd.html) | MiniMax | $1.540 | flat |
+| [WAND ASR v1](https://aiapi-pro.com/models/wand-asr-v1.html) | Tencent (WAND) | $1.540 | flat |
+| [MiniMax Speech 2.8 Turbo](https://aiapi-pro.com/models/minimax-speech-2.8-turbo.html) | MiniMax | $1.540 | flat |
 
 ### Audio — per generation (3 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [MiniMax Speech 02 Turbo](https://aiapi-pro.com/models/minimax-speech-02-turbo.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
-| [MiniMax Music v3.0](https://aiapi-pro.com/models/minimax-music-v3.0.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
-| [MiniMax Music v2.6](https://aiapi-pro.com/models/minimax-music-v2.6.html?utm_source=github_readme_prices&utm_medium=readme) | MiniMax | $1.540 | per generation |
+| [MiniMax Speech 02 Turbo](https://aiapi-pro.com/models/minimax-speech-02-turbo.html) | MiniMax | $1.540 | per generation |
+| [MiniMax Music v3.0](https://aiapi-pro.com/models/minimax-music-v3.0.html) | MiniMax | $1.540 | per generation |
+| [MiniMax Music v2.6](https://aiapi-pro.com/models/minimax-music-v2.6.html) | MiniMax | $1.540 | per generation |
 
 <!-- PRICES:END -->
