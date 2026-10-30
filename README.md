@@ -42,7 +42,7 @@ Maintained by the NovAI team as a public, auto-updating reference. Prices are pu
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-10-28 19:00 UTC  
+**Generated:** 2026-10-29 19:00 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
