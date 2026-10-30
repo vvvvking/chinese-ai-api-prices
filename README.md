@@ -223,3 +223,5 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [MiniMax Music v2.6](https://aiapi-pro.com/models/minimax-music-v2.6.html) | MiniMax | $1.540 | per generation |
 
 <!-- PRICES:END -->
+
+Companion repo: [AI video cost index — list price per minute](https://github.com/vvvvking/ai-video-cost-index).
