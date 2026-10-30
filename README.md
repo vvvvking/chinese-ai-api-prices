@@ -15,6 +15,8 @@ Video is the one category where the same 8 seconds of output costs **$0.34 on th
 
 **→ [The real cost of AI video: $2.52 to $40.80 per minute](https://aiapi-pro.com/video-cost-2026.html?utm_source=github&utm_medium=readme&utm_campaign=video-cost-2026)**
 
+Or put your own batch through the **[cost calculator](https://aiapi-pro.com/video-cost-calculator?utm_source=github&utm_medium=readme&utm_campaign=video-calculator)** — clips × seconds × retries, priced across 13 models.
+
 ## Machine-readable sources
 
 | What | URL |
