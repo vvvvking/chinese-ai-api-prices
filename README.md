@@ -225,3 +225,5 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 <!-- PRICES:END -->
 
 Companion repo: [AI video cost index — list price per minute](https://github.com/vvvvking/ai-video-cost-index).
+
+Companion repos: [AI video cost per minute](https://github.com/vvvvking/ai-video-cost-index) · [AI image cost per image](https://github.com/vvvvking/ai-image-cost-index).
