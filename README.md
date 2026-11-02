@@ -1,5 +1,7 @@
 # Chinese AI API Prices
 
+**Full table:** all 111 Chinese models with list prices in one page — [Chinese AI API pricing comparison](https://aiapi-pro.com/chinese-ai-api-pricing)
+
 **Every Chinese frontier model — DeepSeek, Qwen, GLM, Kimi, MiniMax, Doubao, Hunyuan, Kling, Seedance — in one machine-readable price feed, refreshed daily.**
 
 [![models](https://img.shields.io/badge/models-111-16181d)](https://aiapi-pro.com/v1/models)
