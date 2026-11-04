@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02 19:00 UTC",
+ "generated_at": "2026-11-03 23:52 UTC",
  "source": "https://aiapi-pro.com/models/ (live Product JSON-LD)",
  "note": "Prices are provider list price passed through with $0 platform fee. Auto-updated daily.",
  "multiplier": 1.0,
@@ -240,7 +240,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-4.7-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0,
+     "price_per_1m_output": 0,
+     "normalized_unit": "free"
     },
     {
      "id": "glm-4.6v-flash",
@@ -251,7 +254,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-4.6v-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0,
+     "price_per_1m_output": 0,
+     "normalized_unit": "free"
     },
     {
      "id": "hy-mt2-lite",
@@ -262,7 +268,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy-mt2-lite.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.043,
+     "price_per_1m_output": 0.172,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy-mt2-plus",
@@ -273,7 +282,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy-mt2-plus.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.072,
+     "price_per_1m_output": 0.287,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "doubao-seed-2.0-lite",
@@ -284,7 +296,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/doubao-seed-2.0-lite.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.075,
+     "price_per_1m_output": 0.45,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5.3-flash",
@@ -295,7 +310,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.3-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.08,
+     "price_per_1m_output": 0.28,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-4.6v",
@@ -306,7 +324,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-4.6v.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.3,
+     "price_per_1m_output": 0.9,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "mimo-v2.6-flash",
@@ -317,7 +338,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/mimo-v2.6-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.1,
+     "price_per_1m_output": 0.28,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5.3-flashx",
@@ -328,7 +352,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.3-flashx.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.12,
+     "price_per_1m_output": 0.4,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy3-preview",
@@ -339,7 +366,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy3-preview.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.127,
+     "price_per_1m_output": 0.423,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen3-coder-flash",
@@ -350,7 +380,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3-coder-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.15,
+     "price_per_1m_output": 0.75,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "doubao-seed-2.1-turbo",
@@ -361,7 +394,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.15,
+     "price_per_1m_output": 0.9,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy3",
@@ -372,7 +408,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.18,
+     "price_per_1m_output": 0.72,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "minimax-text-01",
@@ -383,7 +422,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/minimax-text-01.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.14,
+     "price_per_1m_output": 1.1,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "deepseek-v4-flash",
@@ -394,7 +436,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/deepseek-v4-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.08,
+     "price_per_1m_output": 0.17,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen-mt-plus",
@@ -405,7 +450,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen-mt-plus.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.25,
+     "price_per_1m_output": 0.75,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen-plus",
@@ -416,7 +464,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen-plus.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.185,
+     "price_per_1m_output": 0.53,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "minimax-m2.5",
@@ -427,7 +478,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/minimax-m2.5.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.27,
+     "price_per_1m_output": 1.08,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy-mt2-pro",
@@ -438,7 +492,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy-mt2-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.291,
+     "price_per_1m_output": 0.872,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "minimax-m2.7",
@@ -449,7 +506,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/minimax-m2.7.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.3,
+     "price_per_1m_output": 1.198,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "deepseek-v4.1-flash",
@@ -460,7 +520,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/deepseek-v4.1-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.308,
+     "price_per_1m_output": 1.231,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "minimax-m3",
@@ -471,7 +534,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/minimax-m3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.3,
+     "price_per_1m_output": 1.2,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy-role",
@@ -482,7 +548,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy-role.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.369,
+     "price_per_1m_output": 1.477,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "doubao-seed-2.0-pro",
@@ -493,7 +562,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/doubao-seed-2.0-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.4,
+     "price_per_1m_output": 2.0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "doubao-seed-2.1-pro",
@@ -504,7 +576,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/doubao-seed-2.1-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.4,
+     "price_per_1m_output": 2.0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "step-5-preview",
@@ -515,7 +590,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/step-5-preview.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.4,
+     "price_per_1m_output": 1.2,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "mimo-v2.5-pro",
@@ -526,7 +604,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/mimo-v2.5-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.427,
+     "price_per_1m_output": 0.855,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "mimo-v2.6-pro",
@@ -537,7 +618,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/mimo-v2.6-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.43,
+     "price_per_1m_output": 0.87,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "doubao-seed-2.0-code",
@@ -548,7 +632,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/doubao-seed-2.0-code.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.448,
+     "price_per_1m_output": 2.24,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hunyuan-role",
@@ -559,7 +646,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hunyuan-role.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.465,
+     "price_per_1m_output": 1.861,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hunyuan-t1-vision",
@@ -570,7 +660,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hunyuan-t1-vision.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.55,
+     "price_per_1m_output": 1.64,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "deepseek-v4-pro",
@@ -581,7 +674,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/deepseek-v4-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.57,
+     "price_per_1m_output": 1.15,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k2.5",
@@ -592,7 +688,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.5.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.6,
+     "price_per_1m_output": 3.0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5",
@@ -603,7 +702,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.6,
+     "price_per_1m_output": 1.92,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen3.5-ocr",
@@ -614,7 +716,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3.5-ocr.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.7,
+     "price_per_1m_output": 0.7,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy4-preview",
@@ -625,7 +730,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/hy4-preview.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.834,
+     "price_per_1m_output": 2.501,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k2.8-preview",
@@ -636,7 +744,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.8-preview.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.93,
+     "price_per_1m_output": 3.89,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5.1",
@@ -647,7 +758,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.1.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.05,
+     "price_per_1m_output": 3.5,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k2.6",
@@ -658,7 +772,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.6.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.95,
+     "price_per_1m_output": 4.0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k2.7-code",
@@ -669,7 +786,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.7-code.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.67,
+     "price_per_1m_output": 3.4,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5v-turbo",
@@ -680,7 +800,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5v-turbo.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.1,
+     "price_per_1m_output": 3.7,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5-turbo",
@@ -691,7 +814,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5-turbo.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.08,
+     "price_per_1m_output": 3.692,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen3.7-max",
@@ -702,7 +828,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3.7-max.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.16,
+     "price_per_1m_output": 3.475,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5.3",
@@ -713,7 +842,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.25,
+     "price_per_1m_output": 4.0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "glm-5.2",
@@ -724,7 +856,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5.2.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.19,
+     "price_per_1m_output": 3.74,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen3.8-max",
@@ -735,7 +870,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3.8-max.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.84,
+     "price_per_1m_output": 5.515,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k2.7-code-highspeed",
@@ -746,7 +884,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.7-code-highspeed.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 2.073,
+     "price_per_1m_output": 8.61,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kimi-k3",
@@ -757,7 +898,10 @@
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 2.9,
+     "price_per_1m_output": 14.5,
+     "normalized_unit": "per 1M tokens (input/output)"
     }
    ]
   },
@@ -773,7 +917,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/kinfra-vl-embedding-2b.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.0769,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kinfra-text-embedding-0.6b",
@@ -784,7 +931,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/kinfra-text-embedding-0.6b.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.0769,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "text-embedding-v4",
@@ -795,7 +945,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/text-embedding-v4.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.08,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kinfra-text-embedding-4b",
@@ -806,7 +959,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/kinfra-text-embedding-4b.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.0923,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "kinfra-vl-embedding-8b",
@@ -817,7 +973,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/kinfra-vl-embedding-8b.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.0923,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen3.7-text-embedding",
@@ -828,7 +987,10 @@
      "category": "Embedding",
      "url": "https://aiapi-pro.com/models/qwen3.7-text-embedding.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.11,
+     "price_per_1m_output": 0,
+     "normalized_unit": "per 1M tokens (input/output)"
     }
    ]
   },
@@ -844,7 +1006,10 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0,
+     "price_per_1m_output": 0,
+     "normalized_unit": "free"
     },
     {
      "id": "cogview-3-flash",
@@ -855,7 +1020,9 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/cogview-3-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_image": 0.0,
+     "normalized_unit": "free"
     },
     {
      "id": "wan2.2-t2i-flash",
@@ -866,7 +1033,9 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/wan2.2-t2i-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_image": 0.0215,
+     "normalized_unit": "per image"
     },
     {
      "id": "wand-vega-image-lite",
@@ -888,7 +1057,9 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/doubao-seedream-5.0.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_image": 0.027,
+     "normalized_unit": "per image"
     },
     {
      "id": "vidu-image-q2",
@@ -910,7 +1081,9 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/wan2.5-t2i-preview.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_image": 0.0308,
+     "normalized_unit": "per image"
     },
     {
      "id": "hy-image-v3",
@@ -943,7 +1116,9 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/doubao-seedream-5.0-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_image": 0.034,
+     "normalized_unit": "per image"
     },
     {
      "id": "seedream-image-v5.0-pro",
@@ -987,7 +1162,10 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/qwen3-vl-plus.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.21,
+     "price_per_1m_output": 0.63,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "deepseek-v4-flash-vision",
@@ -998,7 +1176,10 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/deepseek-v4-flash-vision.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.308,
+     "price_per_1m_output": 1.231,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "qwen-vl-ocr",
@@ -1009,7 +1190,10 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/qwen-vl-ocr.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.7,
+     "price_per_1m_output": 0.7,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hy-vision-2.0-instruct",
@@ -1020,7 +1204,10 @@
      "category": "Image",
      "url": "https://aiapi-pro.com/models/hy-vision-2.0-instruct.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 1.154,
+     "price_per_1m_output": 2.692,
+     "normalized_unit": "per 1M tokens (input/output)"
     }
    ]
   },
@@ -1036,7 +1223,8 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/cogvideox-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "normalized_unit": "free"
     },
     {
      "id": "doubao-seedance-2.0-fast",
@@ -1047,7 +1235,15 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/doubao-seedance-2.0-fast.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_second_by_resolution": {
+      "480p": 0.054,
+      "720p": 0.131,
+      "1080p": 0.264,
+      "4k": 0.802
+     },
+     "cost_per_5s_est": 0.27,
+     "normalized_unit": "per 5s clip (lowest resolution)"
     },
     {
      "id": "doubao-seedance-2.0",
@@ -1058,7 +1254,15 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/doubao-seedance-2.0.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_second_by_resolution": {
+      "480p": 0.067,
+      "720p": 0.163,
+      "1080p": 0.329,
+      "4k": 1.0
+     },
+     "cost_per_5s_est": 0.335,
+     "normalized_unit": "per 5s clip (lowest resolution)"
     },
     {
      "id": "doubao-seedance-2.5",
@@ -1069,7 +1273,13 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/doubao-seedance-2.5.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_second_by_resolution": {
+      "480p": 0.14,
+      "720p": 0.32
+     },
+     "cost_per_5s_est": 0.7,
+     "normalized_unit": "per 5s clip (lowest resolution)"
     },
     {
      "id": "qwen3-omni-flash",
@@ -1080,7 +1290,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/qwen3-omni-flash.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.15,
+     "price_per_1m_output": 0.6,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "hunyuan-turbos-vision-video",
@@ -1091,7 +1304,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/hunyuan-turbos-vision-video.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "price_per_1m_input": 0.462,
+     "price_per_1m_output": 1.385,
+     "normalized_unit": "per 1M tokens (input/output)"
     },
     {
      "id": "minimax-video-v2.3-fast",
@@ -1102,7 +1318,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/minimax-video-v2.3-fast.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0615,
+     "cost_per_5s_est": 0.308,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "minimax-video-v2.3",
@@ -1113,7 +1332,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/minimax-video-v2.3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0615,
+     "cost_per_5s_est": 0.308,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-o1",
@@ -1124,7 +1346,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-o1.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0923,
+     "cost_per_5s_est": 0.462,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "minimax-video-h3-max",
@@ -1135,7 +1360,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/minimax-video-h3-max.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0769,
+     "cost_per_5s_est": 0.385,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "pixverse-video-v6.0",
@@ -1146,7 +1374,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/pixverse-video-v6.0.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0406,
+     "cost_per_5s_est": 0.203,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-v3",
@@ -1157,7 +1388,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-v3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0923,
+     "cost_per_5s_est": 0.462,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "hy-video-v1.5",
@@ -1168,7 +1402,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/hy-video-v1.5.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0462,
+     "cost_per_5s_est": 0.231,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-v2.5-turbo",
@@ -1179,7 +1416,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-v2.5-turbo.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0615,
+     "cost_per_5s_est": 0.308,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "pixverse-video-v5.6",
@@ -1190,7 +1430,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/pixverse-video-v5.6.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0406,
+     "cost_per_5s_est": 0.203,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "pixverse-video-c1",
@@ -1201,7 +1444,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/pixverse-video-c1.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0308,
+     "cost_per_5s_est": 0.154,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "vidu-video-q3-pro",
@@ -1212,7 +1458,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/vidu-video-q3-pro.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0923,
+     "cost_per_5s_est": 0.462,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "vidu-video-q3",
@@ -1223,7 +1472,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/vidu-video-q3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0769,
+     "cost_per_5s_est": 0.385,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-v3-turbo",
@@ -1234,7 +1486,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-v3-turbo.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.1231,
+     "cost_per_5s_est": 0.615,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "minimax-video-h3",
@@ -1245,7 +1500,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/minimax-video-h3.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0769,
+     "cost_per_5s_est": 0.385,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-v3-omni",
@@ -1256,7 +1514,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-v3-omni.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0923,
+     "cost_per_5s_est": 0.462,
+     "normalized_unit": "per 5s clip (est.)"
     },
     {
      "id": "kling-video-v2.6",
@@ -1267,7 +1528,10 @@
      "category": "Video",
      "url": "https://aiapi-pro.com/models/kling-video-v2.6.html",
      "multiplier": 1.0,
-     "platform_markup_pct": 0
+     "platform_markup_pct": 0,
+     "cost_per_second_est": 0.0769,
+     "cost_per_5s_est": 0.385,
+     "normalized_unit": "per 5s clip (est.)"
     }
    ]
   }
