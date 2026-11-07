@@ -50,7 +50,7 @@ Maintained by the NovAI team as a public, auto-updating reference. Prices are pu
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-11-05 19:00 UTC  
+**Generated:** 2026-11-06 19:00 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
@@ -62,7 +62,7 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html) | Zhipu AI | free | Free |
 | [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html) | Zhipu AI | free | Free |
 
-### Chat / LLM — flat (36 models)
+### Chat / LLM — flat (33 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
@@ -70,33 +70,34 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Hunyuan MT2 Plus](https://aiapi-pro.com/models/hy-mt2-plus.html) | Tencent | $0.0720 | flat |
 | [Doubao-Seed-2.0-Lite](https://aiapi-pro.com/models/doubao-seed-2.0-lite.html) | ByteDance | $0.0750 | flat |
 | [GLM-5.3-Flash](https://aiapi-pro.com/models/glm-5.3-flash.html) | Zhipu AI | $0.0800 | flat |
+| [DeepSeek-V4-Flash](https://aiapi-pro.com/models/deepseek-v4-flash.html) | DeepSeek | $0.0800 | flat |
 | [Mimo v2.6 Flash API](https://aiapi-pro.com/models/mimo-v2.6-flash.html) | NovAI | $0.1000 | flat |
 | [GLM-5.3-FlashX API](https://aiapi-pro.com/models/glm-5.3-flashx.html) | NovAI | $0.1200 | flat |
-| [Hunyuan Hy3 Preview](https://aiapi-pro.com/models/hy3-preview.html) | Tencent Hunyuan | $0.1300 | flat |
 | [Qwen3 Coder Flash](https://aiapi-pro.com/models/qwen3-coder-flash.html) | Alibaba Cloud | $0.1500 | flat |
+| [MiniMax-M3.1-Flash](https://aiapi-pro.com/models/minimax-m3.1-flash.html) | MiniMax | $0.1500 | flat |
 | [Doubao Seed 2.1 Turbo](https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html) | ByteDance (Volcengine) | $0.1500 | flat |
 | [Hunyuan Hy3](https://aiapi-pro.com/models/hy3.html) | Tencent Hunyuan | $0.1800 | flat |
-| [DeepSeek-V4-Flash](https://aiapi-pro.com/models/deepseek-v4-flash.html) | DeepSeek | $0.2100 | flat |
 | [Qwen MT Plus](https://aiapi-pro.com/models/qwen-mt-plus.html) | Alibaba Cloud | $0.2500 | flat |
-| … | | | _+24 more in the JSON feed_ |
+| … | | | _+21 more in the JSON feed_ |
 
 ### Chat / LLM — per 1M tokens (4 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html) | Zhipu AI | $0.1000 | per 1M tokens |
-| [MiniMax Text-01 API](https://aiapi-pro.com/models/minimax-text-01.html) | MiniMax | $0.2000 | per 1M tokens |
-| [Qwen-Plus API](https://aiapi-pro.com/models/qwen-plus.html) | Alibaba Cloud | $0.2600 | per 1M tokens |
-| [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html) | Zhipu AI | $1.080 | per 1M tokens |
+| [MiniMax Text-01 API](https://aiapi-pro.com/models/minimax-text-01.html) | MiniMax | $0.1400 | per 1M tokens |
+| [Qwen-Plus API](https://aiapi-pro.com/models/qwen-plus.html) | Alibaba Cloud | $0.1850 | per 1M tokens |
+| [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html) | Zhipu AI | $0.3000 | per 1M tokens |
+| [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html) | Zhipu AI | $1.100 | per 1M tokens |
 
-### Chat / LLM — per generation (6 models)
+### Chat / LLM — per generation (7 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html) | MiniMax | $0.2800 | per generation |
+| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html) | MiniMax | $0.2700 | per generation |
 | [Doubao-Seed-2.0-Pro](https://aiapi-pro.com/models/doubao-seed-2.0-pro.html) | ByteDance | $0.4000 | per generation |
+| [Hy4](https://aiapi-pro.com/models/hy4.html) | Tencent Hunyuan | $0.4170 | per generation |
 | [Doubao-Seed-2.0-Code](https://aiapi-pro.com/models/doubao-seed-2.0-code.html) | ByteDance | $0.4500 | per generation |
-| [GLM-5](https://aiapi-pro.com/models/glm-5.html) | Zhipu AI | $0.6700 | per generation |
+| [GLM-5](https://aiapi-pro.com/models/glm-5.html) | Zhipu AI | $0.6000 | per generation |
 | [Hunyuan Hy4 Preview](https://aiapi-pro.com/models/hy4-preview.html) | Tencent | $0.8340 | per generation |
 | [Kimi-K2.8-Preview](https://aiapi-pro.com/models/kimi-k2.8-preview.html) | Moonshot | $0.9300 | per generation |
 

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05 19:00 UTC",
+ "generated_at": "2026-11-06 19:00 UTC",
  "source": "https://aiapi-pro.com/models/ (live Product JSON-LD)",
  "note": "Prices are provider list price passed through with $0 platform fee. Auto-updated daily.",
  "multiplier": 1.0,
@@ -298,13 +298,13 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "glm-4.6v",
-     "name": "GLM-4.6V API",
-     "provider": "Zhipu AI",
-     "price_usd": 0.1,
-     "unit": "per 1M tokens",
+     "id": "deepseek-v4-flash",
+     "name": "DeepSeek-V4-Flash",
+     "provider": "DeepSeek",
+     "price_usd": 0.08,
+     "unit": "flat",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/glm-4.6v.html",
+     "url": "https://aiapi-pro.com/models/deepseek-v4-flash.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -331,13 +331,13 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "hy3-preview",
-     "name": "Hunyuan Hy3 Preview",
-     "provider": "Tencent Hunyuan",
-     "price_usd": 0.13,
-     "unit": "flat",
+     "id": "minimax-text-01",
+     "name": "MiniMax Text-01 API",
+     "provider": "MiniMax",
+     "price_usd": 0.14,
+     "unit": "per 1M tokens",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/hy3-preview.html",
+     "url": "https://aiapi-pro.com/models/minimax-text-01.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -349,6 +349,17 @@
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3-coder-flash.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
+     "id": "minimax-m3.1-flash",
+     "name": "MiniMax-M3.1-Flash",
+     "provider": "MiniMax",
+     "price_usd": 0.15,
+     "unit": "flat",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/minimax-m3.1-flash.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -375,24 +386,13 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "minimax-text-01",
-     "name": "MiniMax Text-01 API",
-     "provider": "MiniMax",
-     "price_usd": 0.2,
+     "id": "qwen-plus",
+     "name": "Qwen-Plus API",
+     "provider": "Alibaba Cloud",
+     "price_usd": 0.185,
      "unit": "per 1M tokens",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/minimax-text-01.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
-     "id": "deepseek-v4-flash",
-     "name": "DeepSeek-V4-Flash",
-     "provider": "DeepSeek",
-     "price_usd": 0.21,
-     "unit": "flat",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/deepseek-v4-flash.html",
+     "url": "https://aiapi-pro.com/models/qwen-plus.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -408,21 +408,10 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "qwen-plus",
-     "name": "Qwen-Plus API",
-     "provider": "Alibaba Cloud",
-     "price_usd": 0.26,
-     "unit": "per 1M tokens",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/qwen-plus.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
      "id": "minimax-m2.5",
      "name": "MiniMax-M2.5",
      "provider": "MiniMax",
-     "price_usd": 0.28,
+     "price_usd": 0.27,
      "unit": "per generation",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/minimax-m2.5.html",
@@ -441,13 +430,24 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "minimax-m2.7",
-     "name": "MiniMax-M2.7",
+     "id": "glm-4.6v",
+     "name": "GLM-4.6V API",
+     "provider": "Zhipu AI",
+     "price_usd": 0.3,
+     "unit": "per 1M tokens",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/glm-4.6v.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
+     "id": "minimax-m3",
+     "name": "MiniMax-M3",
      "provider": "MiniMax",
      "price_usd": 0.3,
      "unit": "flat",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/minimax-m2.7.html",
+     "url": "https://aiapi-pro.com/models/minimax-m3.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -459,17 +459,6 @@
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/deepseek-v4.1-flash.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
-     "id": "minimax-m3",
-     "name": "MiniMax-M3",
-     "provider": "MiniMax",
-     "price_usd": 0.35,
-     "unit": "flat",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/minimax-m3.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -518,13 +507,13 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "mimo-v2.5-pro",
-     "name": "MiMo-V2.5-Pro",
-     "provider": "Xiaomi",
-     "price_usd": 0.427,
-     "unit": "flat",
+     "id": "hy4",
+     "name": "Hy4",
+     "provider": "Tencent Hunyuan",
+     "price_usd": 0.417,
+     "unit": "per generation",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/mimo-v2.5-pro.html",
+     "url": "https://aiapi-pro.com/models/hy4.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -576,7 +565,7 @@
      "id": "deepseek-v4-pro",
      "name": "DeepSeek-V4-Pro",
      "provider": "DeepSeek",
-     "price_usd": 0.63,
+     "price_usd": 0.57,
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/deepseek-v4-pro.html",
@@ -584,24 +573,24 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "kimi-k2.5",
-     "name": "Kimi-K2.5",
-     "provider": "Moonshot AI",
-     "price_usd": 0.64,
-     "unit": "flat",
+     "id": "glm-5",
+     "name": "GLM-5",
+     "provider": "Zhipu AI",
+     "price_usd": 0.6,
+     "unit": "per generation",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/kimi-k2.5.html",
+     "url": "https://aiapi-pro.com/models/glm-5.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
     {
-     "id": "glm-5",
-     "name": "GLM-5",
-     "provider": "Zhipu AI",
+     "id": "kimi-k2.7-code",
+     "name": "Kimi-K2.7-Code",
+     "provider": "Moonshot AI",
      "price_usd": 0.67,
-     "unit": "per generation",
+     "unit": "flat",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/glm-5.html",
+     "url": "https://aiapi-pro.com/models/kimi-k2.7-code.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -639,21 +628,10 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "glm-5.1",
-     "name": "GLM-5.1",
-     "provider": "Zhipu AI",
-     "price_usd": 1.01,
-     "unit": "flat",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/glm-5.1.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
      "id": "kimi-k2.6",
      "name": "Kimi-K2.6",
      "provider": "Moonshot AI",
-     "price_usd": 1.04,
+     "price_usd": 0.95,
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k2.6.html",
@@ -661,13 +639,13 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "kimi-k2.7-code",
-     "name": "Kimi-K2.7-Code",
-     "provider": "Moonshot AI",
-     "price_usd": 1.04,
+     "id": "glm-5.1",
+     "name": "GLM-5.1",
+     "provider": "Zhipu AI",
+     "price_usd": 1.05,
      "unit": "flat",
      "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/kimi-k2.7-code.html",
+     "url": "https://aiapi-pro.com/models/glm-5.1.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -675,21 +653,10 @@
      "id": "glm-5v-turbo",
      "name": "GLM-5V-Turbo API",
      "provider": "Zhipu AI",
-     "price_usd": 1.08,
+     "price_usd": 1.1,
      "unit": "per 1M tokens",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-5v-turbo.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
-     "id": "glm-5-turbo",
-     "name": "GLM-5-Turbo",
-     "provider": "Zhipu AI",
-     "price_usd": 1.08,
-     "unit": "flat",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/glm-5-turbo.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -705,6 +672,17 @@
      "platform_markup_pct": 0
     },
     {
+     "id": "glm-5.2",
+     "name": "GLM-5.2",
+     "provider": "Zhipu AI",
+     "price_usd": 1.19,
+     "unit": "flat",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/glm-5.2.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
      "id": "glm-5.3",
      "name": "GLM-5.3",
      "provider": "Zhipu AI",
@@ -716,17 +694,6 @@
      "platform_markup_pct": 0
     },
     {
-     "id": "glm-5.2",
-     "name": "GLM-5.2",
-     "provider": "Zhipu AI",
-     "price_usd": 1.34,
-     "unit": "flat",
-     "category": "Chat / LLM",
-     "url": "https://aiapi-pro.com/models/glm-5.2.html",
-     "multiplier": 1.0,
-     "platform_markup_pct": 0
-    },
-    {
      "id": "qwen3.8-max",
      "name": "Qwen3.8-Max",
      "provider": "Alibaba",
@@ -734,6 +701,17 @@
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/qwen3.8-max.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
+     "id": "kimi-k3.1-pro",
+     "name": "Kimi-K3.1-Pro",
+     "provider": "Moonshot AI",
+     "price_usd": 2.0,
+     "unit": "flat",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/kimi-k3.1-pro.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
