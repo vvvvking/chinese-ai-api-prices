@@ -50,7 +50,7 @@ Maintained by the NovAI team as a public, auto-updating reference. Prices are pu
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-11-10 19:00 UTC  
+**Generated:** 2026-11-12 09:52 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
@@ -62,7 +62,7 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html) | Zhipu AI | free | Free |
 | [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html) | Zhipu AI | free | Free |
 
-### Chat / LLM — flat (33 models)
+### Chat / LLM — flat (34 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
@@ -78,7 +78,7 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Doubao Seed 2.1 Turbo](https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html) | ByteDance (Volcengine) | $0.1500 | flat |
 | [Hunyuan Hy3](https://aiapi-pro.com/models/hy3.html) | Tencent Hunyuan | $0.1800 | flat |
 | [Qwen MT Plus](https://aiapi-pro.com/models/qwen-mt-plus.html) | Alibaba Cloud | $0.2500 | flat |
-| … | | | _+21 more in the JSON feed_ |
+| … | | | _+22 more in the JSON feed_ |
 
 ### Chat / LLM — per 1M tokens (4 models)
 
@@ -108,10 +108,11 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [GLM-4.1V-Thinking-Flash](https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html) | Zhipu AI | free | Free |
 | [CogView3-Flash](https://aiapi-pro.com/models/cogview-3-flash.html) | Zhipu AI | free | Free |
 
-### Image — per generation (11 models)
+### Image — per generation (13 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
+| [MiniMax H3 Image](https://aiapi-pro.com/models/minimax-image-h3.html) | MiniMax | $0.0204 | per generation |
 | [Wan 2.2 T2I Flash](https://aiapi-pro.com/models/wan2.2-t2i-flash.html) | Alibaba Cloud | $0.0215 | per generation |
 | [WAND Vega Image Lite](https://aiapi-pro.com/models/wand-vega-image-lite.html) | Tencent (WAND Vega) | $0.0250 | per generation |
 | [Seedream 5.0](https://aiapi-pro.com/models/doubao-seedream-5.0.html) | ByteDance | $0.0270 | per generation |
@@ -120,9 +121,10 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Hunyuan Image 3.0](https://aiapi-pro.com/models/hy-image-v3.html) | Tencent (Hunyuan) | $0.0310 | per generation |
 | [Seedream v5.0 Lite (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-lite.html) | ByteDance (Seedream) | $0.0340 | per generation |
 | [Seedream 5.0 Pro](https://aiapi-pro.com/models/doubao-seedream-5.0-pro.html) | ByteDance | $0.0340 | per generation |
+| [MiniMax H3 Image HighSpeed](https://aiapi-pro.com/models/minimax-image-h3-highspeed.html) | MiniMax | $0.0364 | per generation |
 | [Seedream v5.0 Pro (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-pro.html) | ByteDance (Seedream) | $0.0460 | per generation |
 | [WAND Vega Image Flash](https://aiapi-pro.com/models/wand-vega-image-flash.html) | Tencent (WAND Vega) | $0.0690 | per generation |
-| [WAND Vega Image Pro](https://aiapi-pro.com/models/wand-vega-image-pro.html) | Tencent (WAND Vega) | $0.1460 | per generation |
+| … | | | _+1 more in the JSON feed_ |
 
 ### Image — per image (4 models)
 
@@ -196,7 +198,7 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Kinfra Text Embedding 4B](https://aiapi-pro.com/models/kinfra-text-embedding-4b.html) | Tencent (Kinfra) | $0.0923 | flat |
 | [Qwen3.7 Text Embedding](https://aiapi-pro.com/models/qwen3.7-text-embedding.html) | Alibaba Cloud | $0.1100 | flat |
 
-### 3D — per generation (7 models)
+### 3D — per generation (9 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
@@ -205,7 +207,9 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Tripo 3D P1](https://aiapi-pro.com/models/tripo-3d-p1.html) | Tripo | $0.3230 | per generation |
 | [Tripo 3D 3.1](https://aiapi-pro.com/models/tripo-3d-3.1.html) | Tripo | $0.3230 | per generation |
 | [Hunyuan 3D 3.1](https://aiapi-pro.com/models/hy-3d-3.1.html) | Tencent | $0.3690 | per generation |
+| [Miora 3D T1](https://aiapi-pro.com/models/miora-3d-t1.html) | Tencent | $0.3690 | per generation |
 | [Hunyuan 3D 3.0](https://aiapi-pro.com/models/hy-3d-3.0.html) | Tencent | $0.3690 | per generation |
+| [Miora 3D 1.2](https://aiapi-pro.com/models/miora-3d-1.2.html) | Tencent | $0.4620 | per generation |
 | [Hunyuan 3D PolyGen (Image)](https://aiapi-pro.com/models/hy-3d-polygen-image.html) | Tencent | $0.5540 | per generation |
 
 ### Audio — flat (8 models)
