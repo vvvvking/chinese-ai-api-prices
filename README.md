@@ -50,7 +50,7 @@ Maintained by the NovAI team as a public, auto-updating reference. Prices are pu
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-11-16 19:00 UTC  
+**Generated:** 2026-11-18 09:06 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
@@ -62,7 +62,20 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html) | Zhipu AI | free | Free |
 | [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html) | Zhipu AI | free | Free |
 
-### Chat / LLM — flat (34 models)
+### Chat / LLM — per generation (8 models)
+
+| Model | Provider | Price | Unit |
+|---|---|---|---|
+| [Hy4 Flash](https://aiapi-pro.com/models/hy4-flash.html) | Tencent Hunyuan | $0.0350 | per generation |
+| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html) | MiniMax | $0.2700 | per generation |
+| [Doubao-Seed-2.0-Pro](https://aiapi-pro.com/models/doubao-seed-2.0-pro.html) | ByteDance | $0.4000 | per generation |
+| [Hy4](https://aiapi-pro.com/models/hy4.html) | Tencent Hunyuan | $0.4170 | per generation |
+| [Doubao-Seed-2.0-Code](https://aiapi-pro.com/models/doubao-seed-2.0-code.html) | ByteDance | $0.4500 | per generation |
+| [GLM-5](https://aiapi-pro.com/models/glm-5.html) | Zhipu AI | $0.6000 | per generation |
+| [Hunyuan Hy4 Preview](https://aiapi-pro.com/models/hy4-preview.html) | Tencent | $0.8340 | per generation |
+| [Kimi-K2.8-Preview](https://aiapi-pro.com/models/kimi-k2.8-preview.html) | Moonshot | $0.9300 | per generation |
+
+### Chat / LLM — flat (35 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
@@ -78,7 +91,7 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Doubao Seed 2.1 Turbo](https://aiapi-pro.com/models/doubao-seed-2.1-turbo.html) | ByteDance (Volcengine) | $0.1500 | flat |
 | [Hunyuan Hy3](https://aiapi-pro.com/models/hy3.html) | Tencent Hunyuan | $0.1800 | flat |
 | [Qwen MT Plus](https://aiapi-pro.com/models/qwen-mt-plus.html) | Alibaba Cloud | $0.2500 | flat |
-| … | | | _+22 more in the JSON feed_ |
+| … | | | _+23 more in the JSON feed_ |
 
 ### Chat / LLM — per 1M tokens (4 models)
 
@@ -88,18 +101,6 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Qwen-Plus API](https://aiapi-pro.com/models/qwen-plus.html) | Alibaba Cloud | $0.1850 | per 1M tokens |
 | [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html) | Zhipu AI | $0.3000 | per 1M tokens |
 | [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html) | Zhipu AI | $1.100 | per 1M tokens |
-
-### Chat / LLM — per generation (7 models)
-
-| Model | Provider | Price | Unit |
-|---|---|---|---|
-| [MiniMax-M2.5](https://aiapi-pro.com/models/minimax-m2.5.html) | MiniMax | $0.2700 | per generation |
-| [Doubao-Seed-2.0-Pro](https://aiapi-pro.com/models/doubao-seed-2.0-pro.html) | ByteDance | $0.4000 | per generation |
-| [Hy4](https://aiapi-pro.com/models/hy4.html) | Tencent Hunyuan | $0.4170 | per generation |
-| [Doubao-Seed-2.0-Code](https://aiapi-pro.com/models/doubao-seed-2.0-code.html) | ByteDance | $0.4500 | per generation |
-| [GLM-5](https://aiapi-pro.com/models/glm-5.html) | Zhipu AI | $0.6000 | per generation |
-| [Hunyuan Hy4 Preview](https://aiapi-pro.com/models/hy4-preview.html) | Tencent | $0.8340 | per generation |
-| [Kimi-K2.8-Preview](https://aiapi-pro.com/models/kimi-k2.8-preview.html) | Moonshot | $0.9300 | per generation |
 
 ### Image — Free (2 models)
 

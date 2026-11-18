@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16 19:00 UTC",
+ "generated_at": "2026-11-18 09:06 UTC",
  "source": "https://aiapi-pro.com/models/ (live Product JSON-LD)",
  "note": "Prices are provider list price passed through with $0 platform fee. Auto-updated daily.",
  "multiplier": 1.0,
@@ -272,6 +272,17 @@
      "unit": "Free",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/glm-4.6v-flash.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
+     "id": "hy4-flash",
+     "name": "Hy4 Flash",
+     "provider": "Tencent Hunyuan",
+     "price_usd": 0.035,
+     "unit": "per generation",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/hy4-flash.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     },
@@ -767,6 +778,17 @@
      "unit": "flat",
      "category": "Chat / LLM",
      "url": "https://aiapi-pro.com/models/kimi-k3.html",
+     "multiplier": 1.0,
+     "platform_markup_pct": 0
+    },
+    {
+     "id": "kimi-k3.1-pro-highspeed",
+     "name": "Kimi-K3.1-Pro HighSpeed",
+     "provider": "Moonshot AI",
+     "price_usd": 4.0,
+     "unit": "flat",
+     "category": "Chat / LLM",
+     "url": "https://aiapi-pro.com/models/kimi-k3.1-pro-highspeed.html",
      "multiplier": 1.0,
      "platform_markup_pct": 0
     }
