@@ -50,15 +50,16 @@ Maintained by the NovAI team as a public, auto-updating reference. Prices are pu
 
 _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboard.json> — do not edit by hand._
 
-**Generated:** 2026-11-22 19:00 UTC  
+**Generated:** 2026-11-23 19:00 UTC  
 **Platform fee:** 0% (multiplier 1.0)  
 **Free models:** GLM-4.1V-Thinking-Flash, CogView3-Flash, GLM-4.7-Flash, CogVideoX-Flash, GLM-4.6V-Flash  
 **Signup credit:** $2  
 
-### Chat / LLM — Free (2 models)
+### Chat / LLM — Free (3 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
+| [GLM-4.1V-Thinking-Flash](https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html) | Zhipu AI | free | Free |
 | [GLM-4.7-Flash](https://aiapi-pro.com/models/glm-4.7-flash.html) | Zhipu AI | free | Free |
 | [GLM-4.6V-Flash](https://aiapi-pro.com/models/glm-4.6v-flash.html) | Zhipu AI | free | Free |
 
@@ -102,11 +103,21 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [GLM-4.6V API](https://aiapi-pro.com/models/glm-4.6v.html) | Zhipu AI | $0.3000 | per 1M tokens |
 | [GLM-5V-Turbo API](https://aiapi-pro.com/models/glm-5v-turbo.html) | Zhipu AI | $1.100 | per 1M tokens |
 
-### Image — Free (2 models)
+### Chat / LLM — per image (6 models)
 
 | Model | Provider | Price | Unit |
 |---|---|---|---|
-| [GLM-4.1V-Thinking-Flash](https://aiapi-pro.com/models/glm-4.1v-thinking-flash.html) | Zhipu AI | free | Free |
+| [Qwen3 Omni Flash](https://aiapi-pro.com/models/qwen3-omni-flash.html) | Alibaba Cloud | $0.1500 | per image |
+| [Qwen3 VL Plus](https://aiapi-pro.com/models/qwen3-vl-plus.html) | Alibaba Cloud | $0.2100 | per image |
+| [DeepSeek V4 Flash Vision](https://aiapi-pro.com/models/deepseek-v4-flash-vision.html) | DeepSeek | $0.3080 | per image |
+| [Hunyuan Turbos Vision Video](https://aiapi-pro.com/models/hunyuan-turbos-vision-video.html) | Tencent | $0.4620 | per image |
+| [Qwen VL OCR](https://aiapi-pro.com/models/qwen-vl-ocr.html) | Alibaba Cloud | $0.7000 | per image |
+| [Hunyuan Vision 2.0 Instruct](https://aiapi-pro.com/models/hy-vision-2.0-instruct.html) | Tencent | $1.154 | per image |
+
+### Image — Free (1 models)
+
+| Model | Provider | Price | Unit |
+|---|---|---|---|
 | [CogView3-Flash](https://aiapi-pro.com/models/cogview-3-flash.html) | Zhipu AI | free | Free |
 
 ### Image — per generation (13 models)
@@ -126,15 +137,6 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Seedream v5.0 Pro (TokenHub)](https://aiapi-pro.com/models/seedream-image-v5.0-pro.html) | ByteDance (Seedream) | $0.0460 | per generation |
 | [WAND Vega Image Flash](https://aiapi-pro.com/models/wand-vega-image-flash.html) | Tencent (WAND Vega) | $0.0690 | per generation |
 | … | | | _+1 more in the JSON feed_ |
-
-### Image — per image (4 models)
-
-| Model | Provider | Price | Unit |
-|---|---|---|---|
-| [Qwen3 VL Plus](https://aiapi-pro.com/models/qwen3-vl-plus.html) | Alibaba Cloud | $0.2100 | per image |
-| [DeepSeek V4 Flash Vision](https://aiapi-pro.com/models/deepseek-v4-flash-vision.html) | DeepSeek | $0.3080 | per image |
-| [Qwen VL OCR](https://aiapi-pro.com/models/qwen-vl-ocr.html) | Alibaba Cloud | $0.7000 | per image |
-| [Hunyuan Vision 2.0 Instruct](https://aiapi-pro.com/models/hy-vision-2.0-instruct.html) | Tencent | $1.154 | per image |
 
 ### Video — Free (1 models)
 
@@ -159,14 +161,6 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [MiniMax Hailuo H3 Max](https://aiapi-pro.com/models/minimax-video-h3-max.html) | MiniMax | $1.540 | per generation |
 | [MiniMax Hailuo H3](https://aiapi-pro.com/models/minimax-video-h3.html) | MiniMax | $1.540 | per generation |
 
-### Video — per image (3 models)
-
-| Model | Provider | Price | Unit |
-|---|---|---|---|
-| [Qwen3 Omni Flash](https://aiapi-pro.com/models/qwen3-omni-flash.html) | Alibaba Cloud | $0.1500 | per image |
-| [Hunyuan Turbos Vision Video](https://aiapi-pro.com/models/hunyuan-turbos-vision-video.html) | Tencent | $0.4620 | per image |
-| [Hunyuan Video 1.5](https://aiapi-pro.com/models/hy-video-v1.5.html) | Tencent | $1.540 | per image |
-
 ### Video — per 1M tokens (11 models)
 
 | Model | Provider | Price | Unit |
@@ -182,6 +176,12 @@ _Auto-generated from the live feed at <https://aiapi-pro.com/china-ai-leaderboar
 | [Kling V3 Turbo Video API](https://aiapi-pro.com/models/kling-video-v3-turbo.html) | Kuaishou Kling | $1.540 | per 1M tokens |
 | [Kling V3 Omni Video API](https://aiapi-pro.com/models/kling-video-v3-omni.html) | Kuaishou Kling | $1.540 | per 1M tokens |
 | [Kling V2.6 Video API](https://aiapi-pro.com/models/kling-video-v2.6.html) | Kuaishou Kling | $1.540 | per 1M tokens |
+
+### Video — per image (1 models)
+
+| Model | Provider | Price | Unit |
+|---|---|---|---|
+| [Hunyuan Video 1.5](https://aiapi-pro.com/models/hy-video-v1.5.html) | Tencent | $1.540 | per image |
 
 ### Embedding — per image (2 models)
 
